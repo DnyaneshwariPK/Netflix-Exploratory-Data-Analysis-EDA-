@@ -29,24 +29,6 @@ Jupyter: For running and sharing the Jupyter Notebook.
 Usage
 To run the analysis and explore the data:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/netflix-eda.git
-cd netflix-eda
-Launch Jupyter Notebook:
-
-bash
-Copy code
-jupyter notebook
-Open the notebook:
-
-Navigate to the notebooks/ directory.
-Open the netflix_eda.ipynb notebook.
-Execute the cells to see the data cleaning, analysis, and visualizations.
-Data Cleaning
-Before analysis, the dataset undergoes several cleaning steps:
 
 Duplicate Removal: Identifying and removing duplicate entries.
 Handling Missing Values: Filling or removing missing data to maintain consistency.
